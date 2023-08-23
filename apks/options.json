@@ -29,10 +29,10 @@
   "patchName" : "Custom package name",
   "options" : [ {
     "key" : "YouTubePackageName",
-    "value" : "app.rvx.android.youtube"
+    "value" : "app.rvx20.android.youtube"
   }, {
     "key" : "MusicPackageName",
-    "value" : "app.rvx.android.apps.youtube.music"
+    "value" : "app.rvx20.android.apps.youtube.music"
   } ]
 }, {
   "patchName" : "Reddit settings",
