@@ -11,13 +11,13 @@
     "value" : "ReVanced Music Extended"
   }, {
     "key" : "MusicShortName",
-    "value" : "YTM Extended"
+    "value" : "YT Music RvX"
   } ]
 }, {
   "patchName" : "Custom branding YouTube name",
   "options" : [ {
     "key" : "YouTubeAppName",
-    "value" : "ReVanced Extended"
+    "value" : "YouTube RvX"
   } ]
 }, {
   "patchName" : "Custom double tap length",
