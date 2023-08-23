@@ -8,7 +8,7 @@
   "patchName" : "Change package name",
   "options" : [ {
     "key" : "packageName",
-    "value" : "app.revanced20.android.youtube"
+    "value" : "app.revanced21.android.youtube"
   } ]
 }, {
   "patchName" : "Custom branding",
