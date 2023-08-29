@@ -32,6 +32,6 @@
   "patchName" : "Theme",
   "options" : [ {
     "key" : "darkThemeBackgroundColor",
-    "value" : "@android:color/black"
+    "value" : "1F0402"
   } ]
 } ]
